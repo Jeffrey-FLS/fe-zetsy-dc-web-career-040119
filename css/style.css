@@ -94,9 +94,15 @@ footer {
 .col-4 {
   float: left;
   width: 23%;
-  padding: 1%;
+  margin: 1%;
 }
 
-.col-4:firs
+.col-4:first-child {
+  margin-left: 0;
+}
+
+.col-4:last-child {
+  margin-right: 0;
+}
 
 /* Write all remaining styles here */
