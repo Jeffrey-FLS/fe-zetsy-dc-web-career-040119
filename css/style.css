@@ -90,6 +90,13 @@ footer {
 
 }
 
+.footer p {
+  text-align: right;
+}
+
+
+/*--- Layout ---------------------------*/
+
 
 .col-4 {
   float: left;
