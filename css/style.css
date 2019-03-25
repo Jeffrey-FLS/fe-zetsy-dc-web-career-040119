@@ -97,6 +97,6 @@ footer {
   padding: 1%;
 }
 
-.col-4:nth-chin
+.col-4:nth-child(n+2):nth-child(-n+3)
 
 /* Write all remaining styles here */
